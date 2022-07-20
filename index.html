@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang = "ru">
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta charset="utf-8"/>
+		<link rel="stylesheet" type="text/css" href="./styles/normalize.css" > 
+		<link rel="stylesheet" type="text/css" href="./styles/style.css">
+
+		<title>2Dit Test</title>
+	</head>
+<main> 
+    <body>
+        <section class="exercise1">
+            <div class="wrapper">
+                <div class="container">
+                    <div class="exercise1--left">
+                        <div class="cms-content">
+
+                        </div>
+                    </div>
+                    <div class="exercise1--right">
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="excercise4">
+            <div class="wrapper">
+                <div class="container4">
+                    <div class="exercise4--content">
+                        <div class="exercise4--form--div">
+                            <form action="get" class="exercise4--form" id="ex4--form">
+                                <div class="form--header">
+                                    <h2 class="form--title">Оставите заявку</h2>
+                                    <p class="form--text1">И наш специалист свяжется с вами</p>
+                                </div> 
+                                <div class="form--input--area">
+                                    <div class="form--item" id="name--input">
+                                        <input type="text" name="name" class="form--input--name"  placeholder="Ваше имя" required="required">
+                                    </div>
+                                    <div class="form--item" id="phone--input--div">
+                                        <label for="phone--input--field" class="phone--input--label"></label>
+                                        <input type="tel" name="phone" class="form--input--phone" id="phone--input--field"
+                                         value="+7 (___) ___-__-__" placeholder="+7 (___) ___-__-__" pattern="^\+7 \([0-9]{3}\) [0-9]{3}-[0-9]{2}-[0-9]{2}$" required="required">
+                                    </div>
+                                    <div class="form--item" id="mail--input">
+                                        <input type="text" name="email" class="form--input--mail" placeholder="Эл. почта" required="required">
+                                    </div>
+                                </div>
+                                <div class="form--footer">
+                                    <div class="footer--text">
+                                        <p class="agreement--text">Нажимая кнопку, я принимаю <a href="https://example.com/" class="footer--link">пользовательское соглашение</a>, 
+                                            соглашаюсь с политикой конфиденциальности, 
+                                            условиями пользования сайтом, 
+                                            передачей и обработкой моих персональных данных</p>
+                                    </div>
+                                    <div class="form--button">
+                                        <div class="form--item--button" id="submit--button">
+                                            <button type="submit" for="ex4--form" name="sub--button" class="form--input--button" id="submit--button">Оформить заявку</button>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </form>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        <script src="./scripts/script.js"></script>
+    </body>
+</main>
+
+</html>
