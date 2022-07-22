@@ -236,6 +236,401 @@
     font-weight: bold;
     font-style: normal;
 }
+@font-face {
+    font-family: 'Parangon 530C';
+    src: url('../fonts/Parangon530C.eot');
+    src: local('Parangon 530C'), local('Parangon530C'),
+        url('../fonts/Parangon530C.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Parangon530C.woff2') format('woff2'),
+        url('../fonts/Parangon530C.woff') format('woff'),
+        url('../fonts/Parangon530C.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url('../fonts/ProximaNova-Black.eot');
+    src: local('Proxima Nova Black'), local('ProximaNova-Black'),
+        url('../fonts/ProximaNova-Black.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ProximaNova-Black.woff2') format('woff2'),
+        url('../fonts/ProximaNova-Black.woff') format('woff'),
+        url('../fonts/ProximaNova-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url('../fonts/ProximaNova-Extrabld.eot');
+    src: local('Proxima Nova Extrabold'), local('ProximaNova-Extrabld'),
+        url('../fonts/ProximaNova-Extrabld.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ProximaNova-Extrabld.woff2') format('woff2'),
+        url('../fonts/ProximaNova-Extrabld.woff') format('woff'),
+        url('../fonts/ProximaNova-Extrabld.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url('../fonts/ProximaNova-SemiboldIt.eot');
+    src: local('Proxima Nova Semibold Italic'), local('ProximaNova-SemiboldIt'),
+        url('../fonts/ProximaNova-SemiboldIt.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ProximaNova-SemiboldIt.woff2') format('woff2'),
+        url('../fonts/ProximaNova-SemiboldIt.woff') format('woff'),
+        url('../fonts/ProximaNova-SemiboldIt.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url('../fonts/ProximaNovaT-Thin.eot');
+    src: local('Proxima Nova Thin'), local('ProximaNovaT-Thin'),
+        url('../fonts/ProximaNovaT-Thin.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ProximaNovaT-Thin.woff2') format('woff2'),
+        url('../fonts/ProximaNovaT-Thin.woff') format('woff'),
+        url('../fonts/ProximaNovaT-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url('../fonts/ProximaNova-Light.eot');
+    src: local('Proxima Nova Light'), local('ProximaNova-Light'),
+        url('../fonts/ProximaNova-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ProximaNova-Light.woff2') format('woff2'),
+        url('../fonts/ProximaNova-Light.woff') format('woff'),
+        url('../fonts/ProximaNova-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url('../fonts/ProximaNova-BlackIt.eot');
+    src: local('Proxima Nova Black Italic'), local('ProximaNova-BlackIt'),
+        url('../fonts/ProximaNova-BlackIt.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ProximaNova-BlackIt.woff2') format('woff2'),
+        url('../fonts/ProximaNova-BlackIt.woff') format('woff'),
+        url('../fonts/ProximaNova-BlackIt.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url('../fonts/ProximaNova-BoldIt.eot');
+    src: local('Proxima Nova Bold Italic'), local('ProximaNova-BoldIt'),
+        url('../fonts/ProximaNova-BoldIt.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ProximaNova-BoldIt.woff2') format('woff2'),
+        url('../fonts/ProximaNova-BoldIt.woff') format('woff'),
+        url('../fonts/ProximaNova-BoldIt.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url('../fonts/ProximaNova-ThinIt.eot');
+    src: local('Proxima Nova Thin Italic'), local('ProximaNova-ThinIt'),
+        url('../fonts/ProximaNova-ThinIt.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ProximaNova-ThinIt.woff2') format('woff2'),
+        url('../fonts/ProximaNova-ThinIt.woff') format('woff'),
+        url('../fonts/ProximaNova-ThinIt.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url('../fonts/ProximaNova-Bold.eot');
+    src: local('Proxima Nova Bold'), local('ProximaNova-Bold'),
+        url('../fonts/ProximaNova-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ProximaNova-Bold.woff2') format('woff2'),
+        url('../fonts/ProximaNova-Bold.woff') format('woff'),
+        url('../fonts/ProximaNova-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url('../fonts/ProximaNova-RegularIt.eot');
+    src: local('Proxima Nova Regular Italic'), local('ProximaNova-RegularIt'),
+        url('../fonts/ProximaNova-RegularIt.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ProximaNova-RegularIt.woff2') format('woff2'),
+        url('../fonts/ProximaNova-RegularIt.woff') format('woff'),
+        url('../fonts/ProximaNova-RegularIt.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url('../fonts/ProximaNova-ExtrabldIt.eot');
+    src: local('Proxima Nova Extrabold Italic'), local('ProximaNova-ExtrabldIt'),
+        url('../fonts/ProximaNova-ExtrabldIt.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ProximaNova-ExtrabldIt.woff2') format('woff2'),
+        url('../fonts/ProximaNova-ExtrabldIt.woff') format('woff'),
+        url('../fonts/ProximaNova-ExtrabldIt.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url('../fonts/ProximaNova-Regular.eot');
+    src: local('Proxima Nova Regular'), local('ProximaNova-Regular'),
+        url('../fonts/ProximaNova-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ProximaNova-Regular.woff2') format('woff2'),
+        url('../fonts/ProximaNova-Regular.woff') format('woff'),
+        url('../fonts/ProximaNova-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url('../fonts/ProximaNova-LightIt.eot');
+    src: local('Proxima Nova Light Italic'), local('ProximaNova-LightIt'),
+        url('../fonts/ProximaNova-LightIt.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ProximaNova-LightIt.woff2') format('woff2'),
+        url('../fonts/ProximaNova-LightIt.woff') format('woff'),
+        url('../fonts/ProximaNova-LightIt.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url('../fonts/ProximaNova-Semibold.eot');
+    src: local('Proxima Nova Semibold'), local('ProximaNova-Semibold'),
+        url('../fonts/ProximaNova-Semibold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ProximaNova-Semibold.woff2') format('woff2'),
+        url('../fonts/ProximaNova-Semibold.woff') format('woff'),
+        url('../fonts/ProximaNova-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/Lato-LightItalic.eot');
+    src: local('Lato Light Italic'), local('Lato-LightItalic'),
+        url('../fonts/Lato-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Lato-LightItalic.woff2') format('woff2'),
+        url('../fonts/Lato-LightItalic.woff') format('woff'),
+        url('../fonts/Lato-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/Lato-Black.eot');
+    src: local('Lato Black'), local('Lato-Black'),
+        url('../fonts/Lato-Black.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Lato-Black.woff2') format('woff2'),
+        url('../fonts/Lato-Black.woff') format('woff'),
+        url('../fonts/Lato-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/Lato-HeavyItalic.eot');
+    src: local('Lato Heavy Italic'), local('Lato-HeavyItalic'),
+        url('../fonts/Lato-HeavyItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Lato-HeavyItalic.woff2') format('woff2'),
+        url('../fonts/Lato-HeavyItalic.woff') format('woff'),
+        url('../fonts/Lato-HeavyItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Lato Hairline';
+    src: url('../fonts/Lato-Hairline.eot');
+    src: local('Lato Hairline'), local('Lato-Hairline'),
+        url('../fonts/Lato-Hairline.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Lato-Hairline.woff2') format('woff2'),
+        url('../fonts/Lato-Hairline.woff') format('woff'),
+        url('../fonts/Lato-Hairline.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/Lato-Semibold.eot');
+    src: local('Lato Semibold'), local('Lato-Semibold'),
+        url('../fonts/Lato-Semibold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Lato-Semibold.woff2') format('woff2'),
+        url('../fonts/Lato-Semibold.woff') format('woff'),
+        url('../fonts/Lato-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/Lato-Heavy.eot');
+    src: local('Lato Heavy'), local('Lato-Heavy'),
+        url('../fonts/Lato-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Lato-Heavy.woff2') format('woff2'),
+        url('../fonts/Lato-Heavy.woff') format('woff'),
+        url('../fonts/Lato-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/Lato-MediumItalic.eot');
+    src: local('Lato Medium Italic'), local('Lato-MediumItalic'),
+        url('../fonts/Lato-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Lato-MediumItalic.woff2') format('woff2'),
+        url('../fonts/Lato-MediumItalic.woff') format('woff'),
+        url('../fonts/Lato-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/Lato-Light.eot');
+    src: local('Lato Light'), local('Lato-Light'),
+        url('../fonts/Lato-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Lato-Light.woff2') format('woff2'),
+        url('../fonts/Lato-Light.woff') format('woff'),
+        url('../fonts/Lato-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/Lato-Bold.eot');
+    src: local('Lato Bold'), local('Lato-Bold'),
+        url('../fonts/Lato-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Lato-Bold.woff2') format('woff2'),
+        url('../fonts/Lato-Bold.woff') format('woff'),
+        url('../fonts/Lato-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/Lato-BoldItalic.eot');
+    src: local('Lato Bold Italic'), local('Lato-BoldItalic'),
+        url('../fonts/Lato-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Lato-BoldItalic.woff2') format('woff2'),
+        url('../fonts/Lato-BoldItalic.woff') format('woff'),
+        url('../fonts/Lato-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/Lato-Regular.eot');
+    src: local('Lato Regular'), local('Lato-Regular'),
+        url('../fonts/Lato-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Lato-Regular.woff2') format('woff2'),
+        url('../fonts/Lato-Regular.woff') format('woff'),
+        url('../fonts/Lato-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato Hairline';
+    src: url('../fonts/Lato-HairlineItalic.eot');
+    src: local('Lato Hairline Italic'), local('Lato-HairlineItalic'),
+        url('../fonts/Lato-HairlineItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Lato-HairlineItalic.woff2') format('woff2'),
+        url('../fonts/Lato-HairlineItalic.woff') format('woff'),
+        url('../fonts/Lato-HairlineItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/Lato-SemiboldItalic.eot');
+    src: local('Lato Semibold Italic'), local('Lato-SemiboldItalic'),
+        url('../fonts/Lato-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Lato-SemiboldItalic.woff2') format('woff2'),
+        url('../fonts/Lato-SemiboldItalic.woff') format('woff'),
+        url('../fonts/Lato-SemiboldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/Lato-BlackItalic.eot');
+    src: local('Lato Black Italic'), local('Lato-BlackItalic'),
+        url('../fonts/Lato-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Lato-BlackItalic.woff2') format('woff2'),
+        url('../fonts/Lato-BlackItalic.woff') format('woff'),
+        url('../fonts/Lato-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/Lato-Italic.eot');
+    src: local('Lato Italic'), local('Lato-Italic'),
+        url('../fonts/Lato-Italic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Lato-Italic.woff2') format('woff2'),
+        url('../fonts/Lato-Italic.woff') format('woff'),
+        url('../fonts/Lato-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/Lato-ThinItalic.eot');
+    src: local('Lato Thin Italic'), local('Lato-ThinItalic'),
+        url('../fonts/Lato-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Lato-ThinItalic.woff2') format('woff2'),
+        url('../fonts/Lato-ThinItalic.woff') format('woff'),
+        url('../fonts/Lato-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/Lato-Thin.eot');
+    src: local('Lato Thin'), local('Lato-Thin'),
+        url('../fonts/Lato-Thin.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Lato-Thin.woff2') format('woff2'),
+        url('../fonts/Lato-Thin.woff') format('woff'),
+        url('../fonts/Lato-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/Lato-Medium.eot');
+    src: local('Lato Medium'), local('Lato-Medium'),
+        url('../fonts/Lato-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Lato-Medium.woff2') format('woff2'),
+        url('../fonts/Lato-Medium.woff') format('woff'),
+        url('../fonts/Lato-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
 
 
 
@@ -243,13 +638,522 @@
 
 
 
-body {
+
+
+
+
+
+
+main {
 
 	width:100%;
     height: 100%;
 
 }
 
+.exercise1 {
+
+}
+
+.container1 {
+    height: 541px;
+    width: 1154.8363037109375px;
+    padding: 0 15px;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.exercise1--content {
+    display: flex;
+    margin-top: 48.39px;
+  
+
+}
+
+.exercise1--left {
+    width: 540.21px;
+    height: 100%;
+    margin: 0 0 0 0;
+}
+
+#text--content {
+    width: 540.21px;
+    height: 280px;
+}
+
+div.cms-content > h2 {
+    margin: 0;
+    /* H2 -34 px */
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 34px;
+    line-height: 130%;
+    /* or 44px */
+    
+    letter-spacing: -0.01em;
+    font-feature-settings: 'pnum' on, 'lnum' on;
+    
+    /* Blue heading */
+    
+    color: #283F75;
+}
+
+div#text--content > p {
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 150%;
+    /* or 24px */
+
+    font-feature-settings: 'pnum' on, 'lnum' on;
+
+    /* Gray text */
+
+    color: #5B5B5B;
+}
+
+.exercise1--right {
+    width: 560px;
+    height: 100%;
+    margin-left: 54.63px;
+}
+
+
+
+
+.accordeon__head--text {
+    width: 460px;
+    height: 21px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 140%;
+    color: #283F75;
+    margin: 0 0 0 30px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+}
+
+.accordeon__head--arrow {
+    height: 10px;
+    width: 10px;
+    margin-left: 30px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+}
+
+
+#other--accordion {
+    margin-top: 20px;
+}
+
+.accordion {
+    display: flex;
+    width: 560px;
+    height: 60px;
+    background: #FFFFFF;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 140%;
+    color: #283F75;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: center;
+    border: 1px solid #C6CDDA;
+
+
+    cursor: pointer;
+
+    width: 100%;
+
+
+    outline: none;
+    font-size: 15px;
+    transition: 0.4s;
+  }
+  
+  .active, .accordion:hover {
+    background-color: #C6CDDA;
+  }
+  
+  .panel {
+    padding: 0 18px;
+    background-color: white;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 140%;
+    /* identical to box height, or 21px */
+
+
+    /* Blue heading */
+
+    color: #283F75;
+  }
+
+  .arrow--active {
+    transform: rotate(180deg);
+}
+
+
+
+
+
+
+
+
+
+
+.exercise2 {
+    display: flex;
+    box-sizing: border-box;
+    height: 100%;
+}
+
+.container2 {
+    max-width: 972px;
+    padding: 0 15px;
+    margin: 0 auto;
+
+}
+
+.exercise2--content {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 56.94px;
+    margin-bottom: 48.06px;
+}
+
+.exercise2--card--block {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.exercise2--other--card--block {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+.card {
+    display: flex;
+    flex-direction: column;
+
+    width: 290px;
+    height: 436px;
+
+    background: #EFF5F5;
+}
+
+.card:hover {
+    transition: 0.2s ease-in-out;
+    box-shadow: 0 0 10px 5px #264E58;
+}
+
+.other--card {
+    margin-left: 36px;
+}
+
+.img--part {
+    display: flex;
+    width: 290px;
+    height: 290px;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url(../img/ex2chair.png);
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.img--colour--part {
+    display: flex;
+    width: 290px;
+    height: 290px;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url(../img/ex2chaircolor.png);
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.other--info {
+    width: 81px;
+    height: 14px;
+
+    margin: 15px 0 0 15px;
+}
+.other--info--content1 {
+    display: flex;
+    box-sizing: border-box;
+    width: 81px;
+    height: 14px;
+    background: #A32018;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+}
+.other--info--icon1 {
+
+    margin-left:5px;
+
+}
+.other--info--icon2 {
+    width: 7px;
+    height: 7px;
+    margin-left:4px;
+}
+.other--info--content2 {
+    width: 54px;
+    height: 14px;
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+    background: #E0CD1C;
+}
+.onther--info--text2 {
+
+}
+.text2 {
+    width: 31px;
+    height: 9px;
+
+    
+    font-family: 'Parangon 530C';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 8px;
+    line-height: 9px;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+
+    margin: 4px 0 0 4px;
+}
+
+
+.other--info--icon3 {
+    width: 7px;
+    height: 7px;
+    margin-left:6px;
+}
+.other--info--content3 {
+    width: 67px;
+    height: 14px;
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+    background: #087A28;
+}
+.onther--info--text3 {
+
+}
+.text3 {
+    width: 31px;
+    height: 9px;
+
+    
+    font-family: 'Parangon 530C';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 8px;
+    line-height: 9px;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+
+    margin: 4px 0 0 4px;
+}
+
+
+.onther--info--text1 {
+
+}
+.text1 {
+    width: 57px;
+    height: 9px;
+
+    font-family: 'Parangon 530C';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 8px;
+    line-height: 9px;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+
+    margin: 4px 0 0 4px;
+}
+
+
+.stocking {
+    box-sizing: border-box;
+    display: flex;
+    width: 60px;
+    height: 14px;
+    background: #FFFFFF;
+    margin: 237px 0 0 210px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+.stocking--icon {
+    display: flex;
+    width: 9px;
+    height: 9px;
+    margin: 0.5px 0 0 5px;
+}
+.stocking--text--div {
+    width: 38px;
+    height: 10px;
+    margin: 0 0 0 2px;
+}
+.stocking--text {
+    width: 38px;
+    height: 10px;
+
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 8px;
+    line-height: 10px;
+    /* identical to box height */
+
+
+    color: #4F493F;
+    margin: 0 0 0 0;
+}
+
+.text--part {
+    width: 290px;
+    height: 146px;
+}
+.card--type {
+    width: 133px;
+    height: 17px;
+    margin: 15px 0 0 12.5px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    
+    
+    color: #6E6659;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.card--title {
+    width: 265px;
+    height: 22px;
+    margin: 10px 0 0 12.5px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    
+    
+    color: #264E58;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+}
+
+.card--article {
+    width: 116px;
+    height: 17px;
+    margin: 10px 0 0 12.5px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    
+    
+    color: #A5A5A5;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+}
+
+.card--price {
+    width: 205px;
+    height: 45px;
+    margin: 10px 0 0 12.5px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    
+    color: #A5A5A5;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 3;
+    flex-grow: 0;
+}
+
+.green--text--color {
+    color: #264E58;
+}
+
+.brown--text--color {
+    
+
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0em;
+
+
+
+    color: #6E6659;
+}
 
 .excercise4 {
     display: block;
